@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td align=center>SFML</td>
-    <td align=center width=80>Unity</td>
+    <td align=center>Unity</td>
   </tr>
   <tr>
     <td align=center><img src="https://www.sfml-dev.org/download/goodies/sfml-icon-small.png" width=80></td>
