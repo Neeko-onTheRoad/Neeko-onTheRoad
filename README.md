@@ -36,6 +36,6 @@
   </tr>
   <tr>
     <td align=center><img src="https://www.sfml-dev.org/download/goodies/sfml-icon-small.png" width=80></td>
-    <td align=center><img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width=70></td>
+    <td align=center><img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width=80></td>
   </tr>
 </table>
