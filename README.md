@@ -3,13 +3,13 @@
 
 # About Me
 
-## LanguageUse
+### Preferred Language
 <table>
   <tr>
     <td align=center>
       C#
     </td>
-    <td>
+    <td align=center>
       C++
     </td>
   </tr>
