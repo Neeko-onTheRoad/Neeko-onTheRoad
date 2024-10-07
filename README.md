@@ -13,4 +13,12 @@
       C++
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://i.namu.wiki/i/rR0JqoHBX6JAFtqYRWEFCutl8t2UvLGETvnivzsAzcUgvycs-EDmvEW9Buj8AdK36K7FelgNRzf5gZW2T7vtQA.svg" alt=1 width=160px/>
+    </td>
+    <td>
+      <img src="https://i.namu.wiki/i/rR0JqoHBX6JAFtqYRWEFCutl8t2UvLGETvnivzsAzcUgvycs-EDmvEW9Buj8AdK36K7FelgNRzf5gZW2T7vtQA.svg" alt=1 width=160px/>
+    </td>
+  </tr>
 </table>
