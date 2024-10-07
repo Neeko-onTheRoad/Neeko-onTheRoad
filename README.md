@@ -16,13 +16,13 @@
   <tr>
     <td align=center>C</td>
     <td align=center>Python</td>
-    <td align=center width=80>Java</td>
+    <td align=center style="width: 80;">Java</td>
     <td align=center>TypeScript</td>
   </tr>
   <tr>
     <td align=center><img src="https://i.namu.wiki/i/KcqDuQYTxNpUcLIMZTg28QXse0XiWx1G7K68kYYCo1GuhoHmhB_V8Qe9odGGt0BH9-0nQZTN53WXTNpDmwVfWQ.svg" width=80/></td>
     <td align=center><img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width=80/></td>
-    <td align=center><img src="https://static-00.iconduck.com/assets.00/java-icon-378x512-w60vlu77.png" height=80px/></td>
+    <td align=center><img src="https://static-00.iconduck.com/assets.00/java-icon-378x512-w60vlu77.png" height=80/></td>
     <td align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width=80/></td>
   </tr>
 </table>
