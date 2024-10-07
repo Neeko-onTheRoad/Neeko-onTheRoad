@@ -1,4 +1,4 @@
-### Preferred Language
+# Preferred Language
 <table>
   <tr>
     <td align=center>C#</td>
@@ -11,7 +11,7 @@
 </table>
 <br/>
 
-### Available Languages
+## Available Languages
 <table>
   <tr>
     <td align=center>C</td>
@@ -28,7 +28,7 @@
 </table>
 <br/>
 
-### Engine, Framework
+## Engine, Framework
 <table>
   <tr>
     <td align=center>SFML</td>
