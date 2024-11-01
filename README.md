@@ -12,7 +12,7 @@
 <br/>
 
 ## Available Languages
-<table>
+<table align=center>
   <tr>
     <td align=center>C</td>
     <td align=center>Python</td>
@@ -29,7 +29,7 @@
 <br/>
 
 ## Engine, Framework
-<table>
+<table align=center>
   <tr>
     <td align=center>SFML</td>
     <td align=center>Unity</td>
