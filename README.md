@@ -1,5 +1,5 @@
 # Preferred Language
-<table>
+<table align=center>
   <tr>
     <td align=center>C#</td>
     <td align=center>C++</td>
