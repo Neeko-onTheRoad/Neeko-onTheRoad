@@ -1,4 +1,4 @@
-<table>
+<table align=center>
     <tr>
         <td>My Projects</td>
         <td>https://bit.ly/40Jj7nu</td>
@@ -8,7 +8,6 @@
         <td>https://bit.ly/3BSNhvf</td>
     </tr>
 </table>
-<hr/>
 
 <h1 align=center>Preferred Language</h1>
 <table align=center>
