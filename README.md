@@ -1,13 +1,8 @@
-<table align=center>
-    <tr>
-        <td>My Projects</td>
-        <td>https://bit.ly/40Jj7nu</td>
-    </tr>
-    <tr>
-        <td>Patreon</td>
-        <td>https://bit.ly/3BSNhvf</td>
-    </tr>
-</table>
+<div align="left">
+  <a href="https://www.patreon.com/c/neeko_otr/membership" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=555&style=for-the-badge" height="35" alt="patreon logo"/>
+  </a>
+</div>
 
 <br/><br/>
 
