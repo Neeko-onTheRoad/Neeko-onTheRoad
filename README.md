@@ -39,8 +39,3 @@
     <td align=center><img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width=80></td>
   </tr>
 </table>
-
-<br/>
-<h1 align=center>Other</h1>
-in [Section `Projects`](#Projects)
-## Projects
