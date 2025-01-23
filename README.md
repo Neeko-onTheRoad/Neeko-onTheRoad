@@ -1,3 +1,10 @@
+|             | Link                   |
+| :---------: | :--------------------- |
+| My Projects | https://bit.ly/40Jj7nu |
+| Patreon     | https://bit.ly/3BSNhvf |
+
+<hr/>
+
 <h1 align=center>Preferred Language</h1>
 <table align=center>
   <tr>
