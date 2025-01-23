@@ -1,8 +1,9 @@
+<div align=center>
 |             | Link                   |
 | :---------: | :--------------------- |
 | My Projects | https://bit.ly/40Jj7nu |
 | Patreon     | https://bit.ly/3BSNhvf |
-
+</div>
 <hr/>
 
 <h1 align=center>Preferred Language</h1>
