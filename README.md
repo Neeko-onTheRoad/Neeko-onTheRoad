@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="text-decoration:none">
   <a href="https://www.patreon.com/c/neeko_otr/membership" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=555&style=for-the-badge" height="35" alt="patreon logo"/>
   </a>
