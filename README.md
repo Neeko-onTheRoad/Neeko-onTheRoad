@@ -41,5 +41,5 @@
 </table>
 
 <br/>
-## Projects
-[Notion](https://www.notion.so/350e148211c941acb002efe0188ead22?v=448085785f3747f4a532d2accd706800)
+<h1>Projects</h1>
+<a href="https://www.notion.so/350e148211c941acb002efe0188ead22?v=448085785f3747f4a532d2accd706800">Notion</a>
