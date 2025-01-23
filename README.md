@@ -1,9 +1,13 @@
-<div align=center>
-|             | Link                   |
-| :---------: | :--------------------- |
-| My Projects | https://bit.ly/40Jj7nu |
-| Patreon     | https://bit.ly/3BSNhvf |
-</div>
+<table>
+    <tr>
+        <td>My Projects</td>
+        <td>https://bit.ly/40Jj7nu</td>
+    </tr>
+    <tr>
+        <td>Patreon</td>
+        <td>https://bit.ly/3BSNhvf</td>
+    </tr>
+</table>
 <hr/>
 
 <h1 align=center>Preferred Language</h1>
