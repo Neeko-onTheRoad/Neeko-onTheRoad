@@ -39,3 +39,7 @@
     <td align=center><img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width=80></td>
   </tr>
 </table>
+
+<br/>
+## Projects
+[Notion](https://www.notion.so/350e148211c941acb002efe0188ead22?v=448085785f3747f4a532d2accd706800)
