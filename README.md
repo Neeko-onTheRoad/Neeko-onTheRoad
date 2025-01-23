@@ -2,7 +2,7 @@
   <a href="https://www.patreon.com/c/neeko_otr/membership" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=555&style=for-the-badge" height="35" alt="patreon logo"/>
   </a>
-  <a href="[https://www.patreon.com/c/neeko_otr/membership](https://scrawny-air-0d4.notion.site/350e148211c941acb002efe0188ead22?v=448085785f3747f4a532d2accd706800)" target="_blank">
+  <a href="https://scrawny-air-0d4.notion.site/350e148211c941acb002efe0188ead22?v=448085785f3747f4a532d2accd706800" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Projects&logo=notion&label=&color=596CCA&logoColor=white&labelColor=555&style=for-the-badge" height="35" alt="notion logo"/>
   </a>
 </div>
