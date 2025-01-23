@@ -41,4 +41,6 @@
 </table>
 
 <br/>
-<h1 align=center href="https://www.notion.so/350e148211c941acb002efe0188ead22?v=448085785f3747f4a532d2accd706800">Projects</h1>
+<h1 align=center>Other</h1>
+in [Section `Projects`](#Projects)
+## Projects
