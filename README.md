@@ -1,10 +1,9 @@
-<div align="center" style="text-decoration:none">
-  <a href="https://www.patreon.com/c/neeko_otr/membership" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=555&style=for-the-badge" height="35" alt="patreon logo" style="text-decoration:none"/>
+<div align="left">
+  <a href="https://www.patreon.com/c/neeko_otr/membership" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=555&style=for-the-badge" height="35" alt="patreon logo"  />
   </a>
-  
-  <a href="https://scrawny-air-0d4.notion.site/350e148211c941acb002efe0188ead22?v=448085785f3747f4a532d2accd706800" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/static/v1?message=Projects&logo=notion&label=&color=59BECA&logoColor=white&labelColor=555&style=for-the-badge" height="35" alt="notion logo" style="text-decoration:none"/>
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
