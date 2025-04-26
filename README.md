@@ -53,5 +53,11 @@
     <td align=center>DavinchiResolve</td>
   </tr>
   <tr>
+    <td align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width=80></td>
+    <td align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width=80></td>
+    <td align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" width=80></td>
+    <td align=center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHe04etgPkPcgMrTRaQfBS5eczvciTX1gyow&s" width=80></td>
+    <td align=center><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/blender-icon.png" width=80></td>
+    <td align=center><img src="https://images.icon-icons.com/3053/PNG/512/davinci_resolve_macos_bigsur_icon_190261.png" width=80></td>
   </tr>
 </table>
