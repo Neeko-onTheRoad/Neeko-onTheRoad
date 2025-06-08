@@ -61,7 +61,7 @@
 </table>
 <br/>
 
-<h1 align=center>Profile</h1>
+<h1 align=center>Profiles</h1>
 <div align=center>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=buelk489)](https://solved.ac/buelk489)
