@@ -63,3 +63,4 @@
 <h1 align=center>Profile</h1>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=buelk489)](https://solved.ac/buelk489)
+[![aitsuki_nakuru_fan profile](http://mazandi.herokuapp.com/api?handle=buelk489&theme=warm)](https://www.acmicpc.net/user/buelk489)
