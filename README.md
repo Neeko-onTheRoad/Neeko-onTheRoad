@@ -63,6 +63,4 @@
 </table>
 
 <h1 align=center>Profile</h1>
-<div align=center>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aitsuki_nakuru_fan)](https://solved.ac/aitsuki_nakuru_fan)
-</div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=buelk489)](https://solved.ac/buelk489)]
