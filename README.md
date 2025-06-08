@@ -59,8 +59,12 @@
     <td align=center><img src="https://images.icon-icons.com/3053/PNG/512/davinci_resolve_macos_bigsur_icon_190261.png" width=80></td>
   </tr>
 </table>
+<br/>
 
 <h1 align=center>Profile</h1>
-
+<div align=center>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=buelk489)](https://solved.ac/buelk489)
 [![aitsuki_nakuru_fan profile](http://mazandi.herokuapp.com/api?handle=buelk489&theme=warm)](https://www.acmicpc.net/user/buelk489)
+
+</div>
