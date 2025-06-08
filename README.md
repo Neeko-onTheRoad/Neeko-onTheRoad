@@ -61,3 +61,8 @@
     <td align=center><img src="https://images.icon-icons.com/3053/PNG/512/davinci_resolve_macos_bigsur_icon_190261.png" width=80></td>
   </tr>
 </table>
+
+<h1 align=center>Profile</h1>
+<div align=center>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aitsuki_nakuru_fan)](https://solved.ac/aitsuki_nakuru_fan)
+</div>
