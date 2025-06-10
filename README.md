@@ -30,7 +30,7 @@
     <td align=center>Python</td>
     <td align=center style="width: 80;">Java</td>
     <td align=center>T-SQL</td>
-    <td align=cneter>Lua</td>
+    <td align=center>Lua</td>
     <td align=center>TypeScript</td>
   </tr>
   <tr>
