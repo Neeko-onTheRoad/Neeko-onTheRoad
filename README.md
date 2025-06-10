@@ -5,7 +5,7 @@
 [![aitsuki_nakuru_fan profile](http://mazandi.herokuapp.com/api?handle=buelk489&theme=warm)](https://www.acmicpc.net/user/buelk489)
 <br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Neeko-onTheRoad&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neeko-onTheRoad&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22%20alt=%22ovi%22" style="height: 200px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neeko-onTheRoad&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22%20alt=%22ovi%22" style="height: 190px;"/>
 
 </div>
 
