@@ -4,8 +4,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=buelk489)](https://solved.ac/buelk489)
 [![aitsuki_nakuru_fan profile](http://mazandi.herokuapp.com/api?handle=buelk489&theme=warm)](https://www.acmicpc.net/user/buelk489)
 <br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Neeko-onTheRoad&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neeko-onTheRoad&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" style="height: 195px;"/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Neeko-onTheRoad&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neeko-onTheRoad&show_icons=true&locale=en&layout=compact&theme=dracula" style="height: 195px;"/>
 
 </div>
 
