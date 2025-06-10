@@ -1,3 +1,10 @@
+<div align=center>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=buelk489)](https://solved.ac/buelk489)
+[![aitsuki_nakuru_fan profile](http://mazandi.herokuapp.com/api?handle=buelk489&theme=warm)](https://www.acmicpc.net/user/buelk489)
+
+</div>
+
 <h1 align=center>Preferred Language</h1>
 <table align=center>
   <tr>
@@ -62,9 +69,3 @@
 <br/>
 
 <h1 align=center>Profiles</h1>
-<div align=center>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=buelk489)](https://solved.ac/buelk489)
-[![aitsuki_nakuru_fan profile](http://mazandi.herokuapp.com/api?handle=buelk489&theme=warm)](https://www.acmicpc.net/user/buelk489)
-
-</div>
