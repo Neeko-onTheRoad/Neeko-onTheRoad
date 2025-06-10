@@ -29,28 +29,26 @@
     <td align=center>C</td>
     <td align=center>Python</td>
     <td align=center>Java</td>
+    <td align=center>T-SQL</td>
+    <td align=center>Lua</td>
+    <td align=center>TypeScript</td>
   </tr>
   <tr>
     <td align=center><img src="https://i.namu.wiki/i/KcqDuQYTxNpUcLIMZTg28QXse0XiWx1G7K68kYYCo1GuhoHmhB_V8Qe9odGGt0BH9-0nQZTN53WXTNpDmwVfWQ.svg" width=80/></td>
     <td align=center><img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width=80/></td>
     <td align=center><img src="https://static-00.iconduck.com/assets.00/java-icon-378x512-w60vlu77.png" height=80/></td>
-  </tr>
-</table>
-<br/>
-<table align=center>
-  <tr>
-    <td align=center>T-SQL</td>
-    <td align=center>Lua</td>
-    <td align=center>TypeScript</td>
-    <td align=center>Dart</td>
-  </tr>
-  <tr>
     <td align=center><img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" height=80/></td>
     <td align=center><img src="https://static-00.iconduck.com/assets.00/lua-icon-2048x2048-iud9q772.png" height=80/></td>
     <td align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width=80/></td>
-    <td align=center><img src="https://static-00.iconduck.com/assets.00/dart-icon-1021x1024-0q8oyg7c.png" height=80/></td>
   </tr>
+  <tr>
+    <td align=center>Dart</td>
+  </tr>
+  <td>
+    <td align=center><img src="https://static-00.iconduck.com/assets.00/dart-icon-1021x1024-0q8oyg7c.png" height=80/></td>
+  </td>
 </table>
+<br/>
 
 <h2 align=center>Engine, Framework</h2>
 <table align=center>
