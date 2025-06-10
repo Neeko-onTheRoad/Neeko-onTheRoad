@@ -37,7 +37,7 @@
     <td align=center><img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width=80/></td>
     <td align=center><img src="https://static-00.iconduck.com/assets.00/java-icon-378x512-w60vlu77.png" height=80/></td>
     <td align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width=80/></td>
-    <td align=center><img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png"</td>
+    <td align=center><img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" height=80/></td>
   </tr>
 </table>
 <br/>
