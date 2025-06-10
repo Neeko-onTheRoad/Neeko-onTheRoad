@@ -43,9 +43,19 @@
   </tr>
   <tr>
     <td align=center>Dart</td>
+    <td align=center></td>
+    <td align=center></td>
+    <td align=center></td>
+    <td align=center></td>
+    <td align=center></td>
   </tr>
   <tr>
     <td align=center><img src="https://static-00.iconduck.com/assets.00/dart-icon-1021x1024-0q8oyg7c.png" height=80/></td>
+    <td align=center></td>
+    <td align=center></td>
+    <td align=center></td>
+    <td align=center></td>
+    <td align=center></td>
   </tr>
 </table>
 <br/>
