@@ -1,6 +1,6 @@
 <h1 align=center>Bio</h1>
 <div align=center>
-🏫 2024~: Majoring **Computer Game Development** in **Korean Animation Hightschool**
+🏫 2024~: Majoring <b>Computer Game Development</b> in <b>Korean Animation Hightschool</b>
 </div>
 <h1 align=center>Profiles</h1>
 <div align=center>
