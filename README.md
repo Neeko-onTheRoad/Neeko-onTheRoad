@@ -2,6 +2,8 @@
 <div align=center>
 🏫 2024~: Majoring <b>Computer Game Development</b> in <b>Korean Animation Hightschool</b>
 </div>
+<br/>
+
 <h1 align=center>Profiles</h1>
 <div align=center>
   
