@@ -1,5 +1,7 @@
-🏫 Majoring **Computer Game Development** in **Korean Animation Hightschool** (25G)
-
+<h1 align=center>Bio</h1>
+<div align=center>
+🏫 2024~: Majoring **Computer Game Development** in **Korean Animation Hightschool**
+</div>
 <h1 align=center>Profiles</h1>
 <div align=center>
   
