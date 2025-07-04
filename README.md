@@ -42,9 +42,9 @@
   <tr>
     <td align=center><img src="https://i.namu.wiki/i/KcqDuQYTxNpUcLIMZTg28QXse0XiWx1G7K68kYYCo1GuhoHmhB_V8Qe9odGGt0BH9-0nQZTN53WXTNpDmwVfWQ.svg" width=80/></td>
     <td align=center><img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width=80/></td>
-    <td align=center><img src="https://static-00.iconduck.com/assets.00/java-icon-378x512-w60vlu77.png" height=80/></td>
-    <td align=center><img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" height=80/></td>
-    <td align=center><img src="https://static-00.iconduck.com/assets.00/lua-icon-2048x2048-iud9q772.png" height=80/></td>
+    <td align=center><img src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_169577.png" width=80/></td>
+    <td align=center><img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width=80/></td>
+    <td align=center><img src="https://icon.icepanel.io/Technology/png-shadow-512/Lua.png" width=80/></td>
     <td align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width=80/></td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@
     <td align=center></td>
   </tr>
   <tr>
-    <td align=center><img src="https://static-00.iconduck.com/assets.00/dart-icon-1021x1024-0q8oyg7c.png" height=80/></td>
+    <td align=center><img src="https://static-00.iconduck.com/assets.00/dart-icon-1021x1024-0q8oyg7c.png" width=80/></td>
     <td align=center></td>
     <td align=center></td>
     <td align=center></td>
